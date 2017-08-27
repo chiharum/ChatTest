@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "260576711007",
+    "firebase_url": "https://chattest-81794.firebaseio.com",
+    "project_id": "chattest-81794",
+    "storage_bucket": "chattest-81794.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:260576711007:android:7f898b9b475e2d87",
+        "android_client_info": {
+          "package_name": "com.chiharum.chattest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "260576711007-8sdsqvlguf2auq7bjaj9r8ef7b0qj7ur.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chiharum.chattest",
+            "certificate_hash": "de86ccf768d6daf58e9f8ff6ee54ba1c50d4d819"
+          }
+        },
+        {
+          "client_id": "260576711007-thij60e6igst41ivd367v6kuna5fmre9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chiharum.chattest",
+            "certificate_hash": "c831aaf04ff1549f99a0085e2abb4d2814f6044b"
+          }
+        },
+        {
+          "client_id": "260576711007-jts71pei69uhbk8fesr755vfh4q0ovaj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgsy59KSFdltA3S7ZSEYNX9vGIWstT-oo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "260576711007-jts71pei69uhbk8fesr755vfh4q0ovaj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
